@@ -14,7 +14,7 @@ app.use(express.json())
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://imagify-tau-sepia.vercel.app/"
+        "https://imagify-9a5k.vercel.app"
     ],
     credentials: true
 }))
