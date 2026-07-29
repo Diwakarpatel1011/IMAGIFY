@@ -62,21 +62,21 @@ export const testimonialsData = [
         name:'Donald Jackman',
         role:'Graphic Designer',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`I've been using for creating AI images for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
     },
     {
         image:profile_img_2,
         name:'Richard Nelson',
         role:'Content Creator',
         stars:3,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`Its a great thing i am using it for nearly 3 months its a amazing creating different image according to my text promts and creating funny images .`
     },
     {
         image:profile_img_1,
         name:'Donald Jackman',
         role:' Graphic Designer',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`I am generally fan of this website i love to create different different pictures as i think and paste in my copy for my future memory.`
     },
 ]
 
