@@ -14,7 +14,7 @@ app.use(express.json())
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://imagify-diwakar-kumar-patels-projects.vercel.app/"
+        "https://imagify-tau-sepia.vercel.app/"
     ],
     credentials: true
 }))
